@@ -1,0 +1,9 @@
+Include/
+Lib/
+Scripts/
+# Directory Structure
+Include/
+Lib/
+Scripts/
+.env
+__pycache__/
