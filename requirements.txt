@@ -1,5 +1,5 @@
 flask
 flask_sqlalchemy
-psycopg2-binary
+psycopg2-binary #Agregar el binary para evitar problemas en la instalacion en servidores Linux
 gunicorn
 python-dotenv
